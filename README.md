@@ -12,7 +12,7 @@
 - (Data Scientist) Nonso Azih
 - (Data Scientist) Pharis Ihaki
 - (Data Scientist) Karabo Eugene
-- (Data Engineer) Mohammed Rufai
+- (Data Engineer) Haji Rufai
 
 ## Environment
 
