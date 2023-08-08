@@ -1,0 +1,24 @@
+1685209354174	geckodriver	INFO	Listening on 127.0.0.1:49437
+1685209354677	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/jk/jzn8yxf53h546z4w5yvmch280000gn/T/rust_mozprofileCtMU8r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685209355390	Marionette	INFO	Marionette enabled
+1685209355840	Marionette	INFO	Listening on port 49448
+Read port: 49448
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-05-27 20:42:36.314 plugin-container[1171:7743] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-27 20:42:36.314 plugin-container[1171:7743] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-05-27 20:42:36.322 plugin-container[1171:7743] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-27 20:42:36.322 plugin-container[1171:7743] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-05-27 20:42:36.324 plugin-container[1171:7760] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-05-27 20:42:36.324 plugin-container[1171:7760] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49438
+1685209356422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/jk/jzn8yxf53h546z4w5yvmch280000gn/T/rust_mozprofileCtMU8r/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49438/devtools/browser/ca372858-5201-4900-9d7a-54c904df8d43
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

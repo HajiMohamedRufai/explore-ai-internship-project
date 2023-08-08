@@ -1,0 +1,2 @@
+# add your project requirements here, be sure to pin the versions
+pytest==7.2.2
