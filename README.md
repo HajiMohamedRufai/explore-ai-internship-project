@@ -4,6 +4,8 @@
 
 - *Include a short paragraph about the project and the code artefacts in this project.*
 - *Provide any relevant external links, e.g. to Notion, your S3 bucket, etc.*
+- [**Link to WhitePaper**](https://docs.google.com/document/d/1pIxWZed62-_oqqE3CK5ari5a3oc45nVQSLE5hOLeyUI/edit#heading=h.z6ne0og04bp5)
+
 
 ## Team Members
 
